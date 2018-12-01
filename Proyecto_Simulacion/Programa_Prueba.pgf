@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<Program>
+	<Module>Comprobacion.mod</Module>
+	<Module>Asignacion_Lectura.mod</Module>
+	<Module>Juego.mod</Module>
+	<Module>M_Menu.mod</Module>
+	<Module>Busca_Pieza.mod</Module>
+	<Module>CalibData.mod</Module>
+	<Module>Mover_Piezas.mod</Module>
+	<Module>M_Main.mod</Module>
+</Program>
